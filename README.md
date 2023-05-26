@@ -42,6 +42,12 @@ python python/yolo.py cuda
 ## Running the C++ program
 
 The C++ code is [here](cpp/yolo.cpp).
+### 使用CMake进行编译,写了两个脚本
+```bash
+debui.bash
+bui.bash
+
+```
 
 ```bash
 git clone https://github.com/doleron/yolov5-opencv-cpp-python.git
